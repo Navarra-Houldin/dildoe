@@ -11,12 +11,12 @@
     "url": "git+https://github.com/Navarra-Houldin/dildoe.git"
   },
   "license": "ISC",
-  "author": "sass css/dildoe_style.scss  css/dildoe_style.css",
+  "author": "",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile":
+    "compile": "sass css/dildoe_style.scss  css/dildoe_style.css"
   },
   "dependencies": {
     "sass": "^1.104.0"
